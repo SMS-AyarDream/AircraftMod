@@ -1,6 +1,6 @@
 /*
 # Ingore This File -> MaybeMainFile.java
-
+# Compiler/Decompiler -> ( Extension? ) -> .class
 */ 
 
 
