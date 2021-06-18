@@ -2,6 +2,7 @@
   "Language": 
   {
     "Normal": "en-us",
-    "Extension": ["java", "json", "/" ]
+    "Extension": ["java", "jar", "class",  "json" "{folder}" ],
+    /* JSON files up -> soon */
   }
 }
