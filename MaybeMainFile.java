@@ -6,7 +6,7 @@
 
 public class MinecraftMod
 {
-public static void Aircraft ( String[] ThisArguments )
+public static void Aircraft ( String[] Args )
 {
 System.out.printIn ("Hello World!")
 }
