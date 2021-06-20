@@ -1,8 +1,12 @@
 {
-  "Language": 
+  "app": "Minecraft"
+  "language": 
   {
-    "Normal": "en-us",
-    "Extension": ["java", "jar", "class",  "json" "{folder}" ],
-    /* JSON files up -> soon */
+    "normal": "java",
+    "extension": ["java", "jar", "class",  "json" "{folder}" ],
+ 
   }
+  
+  "jm": true
+
 }
