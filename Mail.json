@@ -1,5 +1,5 @@
 {
-  "app": "Minecraft",
+  "app": { "name": "Minecraft", "github_reference": "https://github.com/Mojang", "site": "https://www.minecraft.net/"  },
   "language": 
   {
     "normal": "java",
@@ -7,6 +7,8 @@
  
   },
   
-  "jm": true
+  "jm": true,
+  "javaCompiler": true
+  
 
 }
