@@ -1,11 +1,11 @@
 {
-  "app": "Minecraft"
+  "app": "Minecraft",
   "language": 
   {
     "normal": "java",
     "extension": ["java", "jar", "class",  "json" "{folder}" ],
  
-  }
+  },
   
   "jm": true
 
